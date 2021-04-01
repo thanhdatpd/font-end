@@ -1,0 +1,11 @@
+{
+  "name": "buoi1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thanhdatpd/buoi1.git",
+  "author": "alex nguyen <thanhdatppro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start --watch --server --file '*'"
+  }
+}
